@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANUBHAVsingh23
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning ...C,C++,Python,HTML,CSS and JAVASCRIPT
+- 👀 I’m interested in coading and gaming.
+- 🌱 I’m currently learning ...C,C++,Python,Prolog, HTML,CSS and JAVASCRIPT,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...7380718141 or mail me singh.anubhav3945@gmail.com
 
